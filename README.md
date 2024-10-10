@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @jaakjuu1
-- 👀 I’m interested in psilocybin and web3
-- 🌱 I’m currently learning solidity/web3/sveltejs
-- 💞️ I’m looking to collaborate on web3
 - 📫 How to reach me https://twitter.com/juusojaa juuso.jaakkola@gmail.com
 
 <!---
